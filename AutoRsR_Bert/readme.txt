@@ -1,5 +1,5 @@
 This version uses Bert-Align, which does require a lot processing power. 
-Try out https://github.com/pyraxal/AutoRsr-NoBert, which performs the same task, without Bert-Align, and with much better documentation.  
+Try out AutoRsr-NoBert, which performs the same task, without Bert-Align, and with much better documentation.  
 
 Hello!
 

@@ -1,7 +1,7 @@
 from importlib.machinery import SourceFileLoader
 import json
-import whispherx
-import auto_rsr
+import AutoRsR_Bert.whispherx as whispherx
+import AutoRsR_Bert.auto_rsr as auto_rsr
 import re
 module = SourceFileLoader("bertalign", "/directory_of_bert/__init__.py").load_module()
 from bertalign import Bertalign
